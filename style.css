@@ -1,0 +1,75 @@
+body {
+    background-color:#111111;
+}
+
+#title {
+	font : bold;
+	font-size : 40pt;
+	text-align : center;
+	margin-bottom : 2pt;
+    color: #9999cc;
+}
+
+
+.genreWrapper {
+    text-align: center;
+}
+
+#genreSeparator {
+	font : bold;
+	font-size : 20pt;
+	text-align : center;
+	margin-bottom : 2pt;
+    color: #cedbde;
+}
+
+#genre1 {
+	font : bold;
+	font-size : 30pt;
+	text-align : center;
+	margin-bottom : 2pt;
+    color: #d8f0d6;
+}
+
+#genre2 {
+	font : bold;
+	font-size : 30pt;
+	text-align : center;
+	margin-bottom : 2pt;
+    color: #99c0cc;
+}
+
+#desc1 {
+	font : bold;
+	font-size : 20pt;
+	text-align : center;
+	margin-bottom : 2pt;
+    color: #d8f0d6;
+}
+
+#desc2 {
+	font : bold;
+	font-size : 20pt;
+	text-align : center;
+	margin-bottom : 2pt;
+    color: #99c0cc;
+}
+
+
+
+.buttonWrapper {
+    text-align: center;
+}
+
+.button {
+    background-color: #777777;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
