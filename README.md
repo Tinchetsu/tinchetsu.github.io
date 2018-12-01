@@ -1,2 +1,2 @@
 # tinchetsu.github.io
-Personal page to web experiments
+Personal page for web experiments
